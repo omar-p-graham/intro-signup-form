@@ -28,20 +28,21 @@ Users should be able to:
 
 ![desktop view - 1440px](./images/screenshots/desktop.png)
 ![mobile view - 375px](./images/screenshots/mobile.png)
+![Active and error states](./images/screenshots/states.png)
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/responsive-3column-card-component-xoLTbxXjWV
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-intro-signup-form-with-validation-checks-pmHWS-g4n9
 - Live Site URL: https://omar-p-graham.github.io/intro-signup-form/
 
 ### Built with
 
 - Semantic HTML5 markup
-- SCSS/CSS custom properties
+- SASS/SCSS/CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- JS/JQuery
+- [JS/JQuery](https://jquery.com/)
 
 ## Author
 
