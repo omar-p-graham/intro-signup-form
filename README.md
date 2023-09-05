@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop view - 1440px](./images/screenshots/desktop.png)
-![mobile view - 375px](./images/screenshots/mobile.png)
-![Active and error states](./images/screenshots/states.png)
+![desktop view - 1440px](./images/screenshots/desktop.webp)
+![mobile view - 375px](./images/screenshots/mobile.webp)
+![Active and error states](./images/screenshots/states.webp)
 
 ### Links
 
