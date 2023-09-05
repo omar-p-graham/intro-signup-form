@@ -10,7 +10,8 @@ body{
     font-family: 'Poppins', sans-serif;
     font-size: f.calcRem(16);
     font-weight: 400;
-    background: linear-gradient(var(--red-faded1),var(--red-faded2)), url("../images/bg-intro-mobile.png") no-repeat center fixed;
+    background: url("../images/bg-intro-mobile.png") no-repeat center fixed;
+    background-color: var(--red);
 	background-size: cover;
     height: 100%;
 }
@@ -144,7 +145,8 @@ small{
 
 @media (min-width: f.calcEm(992)){
     body{
-        background: linear-gradient(var(--red-faded1),var(--red-faded2)), url("../images/bg-intro-desktop.png") no-repeat center fixed;
+        background: url("../images/bg-intro-desktop.png") no-repeat center fixed;
+        background-color: var(--red);
         height: 100vh;
     }
 
